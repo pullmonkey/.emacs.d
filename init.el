@@ -1,5 +1,3 @@
-(setq url-proxy-services '(("http" . "wwwproxy.sandia.gov:80")))
-
 (require 'cask "~/.cask/cask.el")
 (cask-initialize)
 
